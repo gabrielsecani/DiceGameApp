@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jogo de Dados</string>
+    <string name="dados_winnercomputer">Computador Ganhou!</string>
+    <string name="dados_winnerplayer">Jogador Ganhou!</string>
+    <string name="dados_winnerdeuce">Empate!</string>
+    <string name="btnJogar">Jogar dados</string>
+    <string name="lblComputer">Computador</string>
+    <string name="lblPlayer">Jogador</string>
+</resources>

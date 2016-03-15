@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="dados_winnerdeuce">Deuce!</string>
+    <string name="btnJogar">Play dice</string>
+    <string name="lblComputer">Computer</string>
+    <string name="lblPlayer">Play</string>
+    <string name="dados_winnercomputer">Computer wins!</string>
+    <string name="dados_winnerplayer">Player wins!</string>
+</resources>
